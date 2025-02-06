@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "crAMEAp2vGn0NRB3jxWnH7h9m95fd6ipdbe/dz7Z6YY=",
+  "Source": "AspNetCoreEmpty",
+  "BasePath": "_content/AspNetCoreEmpty",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetCoreEmpty\\wwwroot",
+      "Source": "AspNetCoreEmpty",
+      "ContentRoot": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreEmpty",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,14 @@
+﻿@model List<AspNetCoreEmpty.Models.Employee>
+<h1>Çoklu veri Alma</h1>
+<hr />
+
+<table style="border:1px solid red" cellpadding="10" cellspacing="10">
+    @foreach(var veri in Model)
+    {
+        <tr>
+            <td>@veri.FirstName</td>
+            <td>@veri.LastName</td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,18 @@
+﻿@model List<AspNetCoreEmpty.Models.Urunler>
+<h1>Urun Listeleme</h1>
+<hr />
+
+@if(Model.Count > 0)
+{
+    foreach (var item in Model)
+    {
+        <label>Ürün Id : @item.Id</label> <br />
+        <label>Ürün Adı : @item.UrunAdi</label> <br />
+        <label>Ürün Adet : @item.UrunAdet</label> <br />
+        <label>Ürün Fiyat : @item.UrunFiyat</label> <br />
+        <label>Toplam Fiyat : @item.ToplamFiyat</label> <br />
+
+        <hr />
+
+    }
+}
