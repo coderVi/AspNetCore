@@ -42,6 +42,10 @@ namespace AspNetCoreEmpty.Controllers
 
             return View(employees);
         }
+        public IActionResult LayoutTest()
+        {
+            return View();
+        }
 
 
     }

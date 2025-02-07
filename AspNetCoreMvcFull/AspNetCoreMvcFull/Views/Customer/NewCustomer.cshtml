@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "New Customer";
+}
+
+<h1>Add To New Customer</h1>
+<hr />
+
+<form action="/Customer/NewCustomer" method="post" class="form-group">
+    <table class="table">
+    <tr>
+        <td>Id : </td>
+        <td><input type="text" name="Id" class="form-control" /> </td>
+        <td>Name : </td>
+        <td><input type="text" name="Name" class="form-control" /> </td>
+        <td>Surname : </td>
+        <td><input type="text" name="Surname" class="form-control" /> </td>
+        <td>Age : </td>
+        <td><input type="text" name="Age" class="form-control" /> </td>
+        <td>Balance : </td>
+        <td><input type="text" name="Balance" class="form-control" /> </td>
+        <tr>
+            <td>
+
+            </td>
+            <td><input type="submit" class="btn btn-outline-dark" value="Save" /></td>
+        </tr>
+    </tr>
+</table>
+</form>

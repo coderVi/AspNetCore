@@ -1,0 +1,33 @@
+﻿@model List<Customer>
+@{
+    ViewData["Title"] = "Customers List";
+}
+
+<h1>Customers List</h1>
+<hr />
+<a href="/Customer/NewCustomer" class="btn btn-outline-primary">+New Customer</a>
+
+<table class="table table-hover">
+    <tr>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Age</th>
+        <th>Balance</th>
+        <th>Process</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Surname</td>
+            <td>@item.Age</td>
+            <td>@item.Balance</td>
+            <td>
+                <a href="/Customer/Details/@item.Id" class="btn btn-success">Details</a>
+                <a href="/Customer/Update/@item.Id" class="btn btn-secondary">Update</a>
+                <a href="/Customer/Delete/@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+

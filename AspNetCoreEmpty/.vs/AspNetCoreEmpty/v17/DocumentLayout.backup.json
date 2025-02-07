@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\views\\home\\veri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\views\\home\\veri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\views\\home\\layouttest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\views\\home\\layouttest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\views\\urunler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\views\\urunler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\models\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\models\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoreempty\\aspnetcoreempty\\views\\home\\veriler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1ADC5523-A01C-4365-93A4-8F9B57345621}|AspNetCoreEmpty\\AspNetCoreEmpty.csproj|solutionrelative:aspnetcoreempty\\views\\home\\veriler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,68 +62,126 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Veriler.cshtml",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Home\\Veriler.cshtml",
-              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Views\\Home\\Veriler.cshtml",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Home\\Veriler.cshtml",
-              "RelativeToolTip": "AspNetCoreEmpty\\Views\\Home\\Veriler.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T22:39:23.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Models\\Employee.cs",
-              "RelativeToolTip": "AspNetCoreEmpty\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:39:14.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Urunler\\Index.cshtml",
-              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Views\\Urunler\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Urunler\\Index.cshtml*",
-              "RelativeToolTip": "AspNetCoreEmpty\\Views\\Urunler\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Test\\Index.cshtml*",
+              "RelativeToolTip": "AspNetCoreEmpty\\Views\\Test\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T22:35:55.936Z",
+              "WhenOpened": "2025-02-07T16:16:33.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UrunlerController.cs",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Controllers\\UrunlerController.cs",
-              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Controllers\\UrunlerController.cs",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Controllers\\UrunlerController.cs",
-              "RelativeToolTip": "AspNetCoreEmpty\\Controllers\\UrunlerController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAAVAAAAAAAAAA==",
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Controllers\\TestController.cs",
+              "RelativeToolTip": "AspNetCoreEmpty\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:29:24.339Z",
+              "WhenOpened": "2025-02-07T16:15:55.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Urunler.cs",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Models\\Urunler.cs",
-              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Models\\Urunler.cs",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Models\\Urunler.cs",
-              "RelativeToolTip": "AspNetCoreEmpty\\Models\\Urunler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:27:51.336Z",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AspNetCoreEmpty\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T16:14:40.596Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veri.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Home\\Veri.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Views\\Home\\Veri.cshtml",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Home\\Veri.cshtml",
+              "RelativeToolTip": "AspNetCoreEmpty\\Views\\Home\\Veri.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T16:13:53.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspNetCoreEmpty\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T16:12:42.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LayoutTest.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Home\\LayoutTest.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Views\\Home\\LayoutTest.cshtml",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Home\\LayoutTest.cshtml",
+              "RelativeToolTip": "AspNetCoreEmpty\\Views\\Home\\LayoutTest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T16:10:00.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreEmpty\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:08:37.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreEmpty\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T16:05:10.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Urunler\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Views\\Urunler\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Views\\Urunler\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreEmpty\\Views\\Urunler\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T22:35:55.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UrunlerController.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Controllers\\UrunlerController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreEmpty\\Controllers\\UrunlerController.cs",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreEmpty\\AspNetCoreEmpty\\Controllers\\UrunlerController.cs",
+              "RelativeToolTip": "AspNetCoreEmpty\\Controllers\\UrunlerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:29:24.339Z"
             }
           ]
         }

@@ -227,3 +227,4 @@ C:\Users\mrasm\OneDrive\Desktop\Asp Ari\AspNetCoreEmpty\AspNetCoreEmpty\obj\Debu
 C:\Users\mrasm\OneDrive\Desktop\Asp Ari\AspNetCoreEmpty\AspNetCoreEmpty\obj\Debug\net8.0\AspNetCoreEmpty.RazorAssemblyInfo.cache
 C:\Users\mrasm\OneDrive\Desktop\Asp Ari\AspNetCoreEmpty\AspNetCoreEmpty\obj\Debug\net8.0\AspNetCoreEmpty.RazorAssemblyInfo.cs
 C:\Users\mrasm\OneDrive\Desktop\Asp Ari\AspNetCoreEmpty\AspNetCoreEmpty\obj\Debug\net8.0\AspNetCo.D1B64F78.Up2Date
+C:\Users\mrasm\OneDrive\Desktop\Asp Ari\AspNetCoreEmpty\AspNetCoreEmpty\obj\Debug\net8.0\AspNetCoreEmpty.sourcelink.json
