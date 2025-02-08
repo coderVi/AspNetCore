@@ -29,16 +29,6 @@ namespace ProductSales.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        public IActionResult SignUp()
-        {
-            return View();
-        }
-
-        public IActionResult SignUp(Users u)
-        {
-            return View();
-        }
-
         public IActionResult Login()
         {
             return View();
@@ -58,10 +48,21 @@ namespace ProductSales.Controllers
             }
 
         }
+        public IActionResult SignUP()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult SignUP(Users users)
+        {
+            
+            return View();
+        }
 
         public IActionResult AdminPage()
         {
             return View();
         }
+
     }
 }

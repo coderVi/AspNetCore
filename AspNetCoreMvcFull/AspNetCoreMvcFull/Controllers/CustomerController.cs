@@ -36,10 +36,53 @@ namespace AspNetCoreMvcFull.Controllers
             cList.Add(c);
             return RedirectToAction("Index");
         }
+
         public IActionResult Details(int id)
         {
             var customer = cList.Where(x => x.Id == id).FirstOrDefault();
             return View(customer);
         }
+
+        public IActionResult Delete(int id)
+        {
+            var customer = cList.FirstOrDefault(x => x.Id == id);
+
+            if (customer != null)
+            {
+                cList.Remove(customer);
+            }
+            return View("Index" , cList);
+        }
+        public IActionResult Update(int id)
+        {
+            var customer = cList.FirstOrDefault(x => x.Id == id);
+
+            if (customer == null)
+            {
+                return NotFound(); 
+            }
+
+            return View(customer);
+        }
+
+        [HttpPost]
+        public IActionResult Update(Customer customer)
+        {
+            var updateC = cList.FirstOrDefault(x => x.Id == customer.Id);
+
+            if (updateC != null)
+            {
+                updateC.Name = customer.Name;
+                updateC.Surname = customer.Surname;
+                updateC.Age = customer.Age;
+                updateC.Balance = customer.Balance;
+            }
+
+            return RedirectToAction("Index");
+        }
+
+
+
+
     }
 }
