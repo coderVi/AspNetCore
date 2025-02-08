@@ -74,6 +74,6 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+Abdülsamet YILMAZ - mr.asmtylmz@gmail.com
 
 Project Link: [https://github.com/coderVi/AspNetCore](https://github.com/coderVi/AspNetCore)
