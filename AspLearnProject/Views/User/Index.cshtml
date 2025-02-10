@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+}
+<style>
+    body {
+        background-color: darkgray;
+    }
+
+    .footer {
+        background-color: snow;
+    }
+
+    .titleFont {
+        font-family: cursive;
+    }
+</style>
+
+<h2 class="text-md-center titleFont mb-5">Login Page</h2>
+<div class="row">
+    <div class="col-md-4">
+    </div>
+    <div class="col-md-4">
+        <form action="/" method="post" class="form-group">
+            <label class="fw-bolder" for="name">User Name : </label>
+            <input type="text" name="name" value="" class="form-control" />
+            <label class="fw-bolder" for="password">Password : </label>
+            <input type="password" name="password" value="" class="form-control" />
+            <button class="btn btn-info mt-2" type="submit">Login !</button>
+        </form>
+    </div>
+    <div class="col-md-4">
+    </div>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+    </div>
+    <div class="col-md-4 text-muted">
+        <h5>Rules</h5>
+        <ul class="list-group">
+            <li class="list-group-item bg-secondary">Rules will come here</li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+    </div>
+</div>

@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewData["Title"] = "Sign Up";
+}
+<style>
+    body {
+        background-color: darkgray;
+    }
+
+    .footer {
+        background-color: snow;
+    }
+
+    .titleFont {
+        font-family: cursive;
+    }
+</style>
+<h3 class="h5 titleFont text-center mt-5">Welcome To Sign Up Page</h3>
+
+<div class="row mt-5">
+    <div class="col-md-4">
+    </div>
+    <div class="col-md-4">
+        <form action="/" method="post" class="form-group">
+            <label class="fw-bolder" for="name">Name : </label>
+            <input type="text" name="name" value="" class="form-control" />
+            <label class="fw-bolder" for="name">Surname : </label>
+            <input type="text" name="name" value="" class="form-control" />
+            <label class="fw-bolder" for="name">User Name : </label>
+            <input type="text" name="name" value="" class="form-control" />
+            <label class="fw-bolder" for="name">E-Mail : </label>
+            <input type="email" name="name" value="" class="form-control" />
+            <label class="fw-bolder" for="password">Password : </label>
+            <input type="password" name="password" value="" class="form-control" />
+            <label class="fw-bolder" for="password">Password Repeat : </label>
+            <input type="password" name="password" value="" class="form-control" />
+            <button class="btn btn-info mt-2" type="submit">Sign Up</button>
+        </form>
+    </div>
+    <div class="col-md-4">
+    </div>
+</div>
+<div class="row mt-5">
+    <div class="col-md-4">
+    </div>
+    <div class="col-md-4 text-muted">
+        Password Rules :
+        <ul>
+            <li>
+                Your password must be at least 8 characters
+            </li>
+            <li>
+                Your password must contain at least an uppercase letter.
+            </li>
+            <li>
+                Your password must contain at least a lowercase letter.
+            </li>
+            <li>
+                Your password must contain at least one symbol letter.
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+    </div>
+</div>
+
+
