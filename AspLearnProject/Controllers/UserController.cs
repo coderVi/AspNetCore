@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AspLearnProject.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AspLearnProject.Controllers
 {
@@ -12,5 +13,9 @@ namespace AspLearnProject.Controllers
         {
             return View();
         }
+        //public IActionResult SignUp(User user)
+        //{
+        //    return RedirectToAction("Index", "Home");
+        //}
     }
 }
