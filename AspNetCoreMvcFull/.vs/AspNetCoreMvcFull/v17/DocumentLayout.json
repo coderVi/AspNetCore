@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoremvcfull\\aspnetcoremvcfull\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|solutionrelative:aspnetcoremvcfull\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoremvcfull\\aspnetcoremvcfull\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|solutionrelative:aspnetcoremvcfull\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoremvcfull\\aspnetcoremvcfull\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|solutionrelative:aspnetcoremvcfull\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoremvcfull\\aspnetcoremvcfull\\views\\user\\htmlhelpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|solutionrelative:aspnetcoremvcfull\\views\\user\\htmlhelpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoremvcfull\\aspnetcoremvcfull\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|solutionrelative:aspnetcoremvcfull\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoremvcfull\\aspnetcoremvcfull\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|solutionrelative:aspnetcoremvcfull\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoremvcfull\\aspnetcoremvcfull\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|solutionrelative:aspnetcoremvcfull\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|c:\\users\\mrasm\\onedrive\\desktop\\asp ari\\aspnetcoremvcfull\\aspnetcoremvcfull\\views\\user\\taghelpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D60B3C-7A07-4B1F-8A4A-63510CE308E5}|AspNetCoreMvcFull\\AspNetCoreMvcFull.csproj|solutionrelative:aspnetcoremvcfull\\views\\user\\taghelpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,67 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Views\\Customer\\Update.cshtml",
-              "RelativeDocumentMoniker": "AspNetCoreMvcFull\\Views\\Customer\\Update.cshtml",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Views\\Customer\\Update.cshtml",
-              "RelativeToolTip": "AspNetCoreMvcFull\\Views\\Customer\\Update.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T18:55:57.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Models\\User.cs",
-              "RelativeDocumentMoniker": "AspNetCoreMvcFull\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Models\\User.cs",
-              "RelativeToolTip": "AspNetCoreMvcFull\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T16:31:50.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "AspNetCoreMvcFull\\Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "AspNetCoreMvcFull\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T17:09:23.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "AspNetCoreMvcFull\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Models\\Customer.cs",
-              "RelativeToolTip": "AspNetCoreMvcFull\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T17:00:22.435Z",
+              "Title": "TagHelpers.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Views\\User\\TagHelpers.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvcFull\\Views\\User\\TagHelpers.cshtml",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Views\\User\\TagHelpers.cshtml",
+              "RelativeToolTip": "AspNetCoreMvcFull\\Views\\User\\TagHelpers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T16:02:41.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "AspNetCoreMvcFull\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "AspNetCoreMvcFull\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwC0AAAAIAAAAAAAAAA==",
+              "Title": "HtmlHelpers.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Views\\User\\HtmlHelpers.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvcFull\\Views\\User\\HtmlHelpers.cshtml",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Views\\User\\HtmlHelpers.cshtml",
+              "RelativeToolTip": "AspNetCoreMvcFull\\Views\\User\\HtmlHelpers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T17:52:28.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvcFull\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp Ari\\AspNetCoreMvcFull\\AspNetCoreMvcFull\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AspNetCoreMvcFull\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T16:59:44.751Z",
+              "WhenOpened": "2025-02-11T17:41:30.29Z",
               "EditorCaption": ""
             }
           ]

@@ -43,14 +43,37 @@ namespace AspNetCoreMvcFull.Controllers
             }
             else
             {
+                ViewBag.Mesaj = "Kullanýcý adý veya Þifre Hatalý. Tekrar deneyin";
                 return View();
             }
             
         }
-
         public IActionResult Welcome()
         {
             return View();
+        }
+        public IActionResult BirdenFazlaModel()
+        {
+            var book = new List<Book>
+            {
+                new Book {BookName="Kitap 1"},
+                new Book {BookName="Kitap 2"},
+                new Book {BookName="Kitap 3"}
+            };
+            var customer = new List<Customer>
+            {
+                new Customer {Name = "Ali"},
+                new Customer {Name = "Veli"},
+                new Customer {Name = "Cem"},
+            };
+
+            var vm = new CustomerBookVM
+            {
+                Books = book,
+                Customers = customer,
+            };
+
+            return View(vm);
         }
 
     }

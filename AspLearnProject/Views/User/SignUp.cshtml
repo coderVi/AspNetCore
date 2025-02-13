@@ -21,7 +21,7 @@
     <div class="col-md-4">
     </div>
     <div class="col-md-4">
-        <form action="/" method="post" class="form-group">
+        <form action="/User/SignUp" method="post" class="form-group">
             <label class="fw-bolder" for="Name">Name : </label>
             <input type="text" name="Name" value="" class="form-control" />
 
@@ -43,16 +43,7 @@
             <button class="btn btn-info mt-2" type="submit" id="submitBtn">Sign Up</button>
         </form>
 
-        <script>
-            document.getElementById("submitBtn").addEventListener("click", function(event) {
-                const sifre1 = document.getElementById("Pass1").value;
-                const sifre2 = document.getElementById("Pass2").value;
-                if (sifre1 !== sifre2) {
-                    event.preventDefault();
-                    alert("Passwords do not match.");
-                }
-            });
-        </script>
+        <script src="/js/form-validation.js"></script>
 
     </div>
     <div class="col-md-4">

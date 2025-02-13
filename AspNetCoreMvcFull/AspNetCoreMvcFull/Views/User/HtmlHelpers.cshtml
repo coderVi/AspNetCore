@@ -1,0 +1,30 @@
+﻿@model User
+@{
+    ViewData["Title"] = "HtmlHelpers";
+}
+
+<div class="row justify-content-center">
+    <div class="col-lg-4">
+        <div class="card">
+            <div class="card-header">
+                <h3>Html Helpers Sayfası</h3>
+            </div>
+            <div class="card-body">
+                @using (Html.BeginForm("HtmlHelpers", "User", FormMethod.Post)){
+                    <div class="form-group">
+                        @Html.LabelFor(x=>x.UserName,"Kullanıcı Adı")
+                        @Html.TextBoxFor(x=>x.UserName,new{@class ="form-control"})
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.Password, "Şifre")
+                        @Html.TextBoxFor(x => x.Password, new { @class = "form-control" })
+                    </div>
+
+                    <button type="submit" class="btn btn-primary mt-5">Giriş</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

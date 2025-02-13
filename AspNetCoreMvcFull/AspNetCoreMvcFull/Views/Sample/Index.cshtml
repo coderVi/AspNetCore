@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "View Bag, View Data, Temp Data";
+}
+
+<h1>Index</h1>
+
+<div class="row justify-content-center" style="margin-top:50;">
+    <h1>@ViewBag.Tarih</h1>
+    <h2>@ViewData["Saat"]</h2>
+    <div>
+        <ul>
+            @foreach (var item in ViewBag.koleksiyon)
+            {
+                <li>@item</li>
+            }
+        </ul>
+    </div>
+
+</div>
+

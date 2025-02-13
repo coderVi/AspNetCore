@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Home/BirdenFazlaModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCaXJkZW5GYXpsYU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,12 +64,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Sample/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Siparis/Sonuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xTb251Yy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Siparis/UrunModelAl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xVcnVuTW9kZWxBbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Siparis/UrunSat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xVcnVuU2F0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Siparis/UrunSatModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xVcnVuU2F0TW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/Urun/StokAzalt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxTdG9rQXphbHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/User/HtmlHelpers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxIdG1sSGVscGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/User/TagHelpers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxUYWdIZWxwZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mrasm/OneDrive/Desktop/Asp Ari/AspNetCoreMvcFull/AspNetCoreMvcFull/Views/_ViewImports.cshtml]
