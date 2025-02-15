@@ -1,0 +1,49 @@
+﻿@model AspQuiz.Models.UserUrunVM
+
+@{
+    ViewData["Title"] = "Listele";
+}
+
+<h1>Kullanıcılar</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>İsim</th>
+            <th>Soyisim</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <td>@user.UserID</td>
+                <td>@user.UserName</td>
+                <td>@user.UserLastName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h1>Ürünler</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ürün Adı</th>
+            <th>Fiyat</th>
+            <th>Stok Adet</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var urun in Model.Uruns)
+        {
+            <tr>
+                <td>@urun.UrunId</td>
+                <td>@urun.UrunAdi</td>
+                <td>@urun.UrunFiyat</td>
+                <td>@urun.UrunStokAdet</td>
+            </tr>
+        }
+    </tbody>
+</table>

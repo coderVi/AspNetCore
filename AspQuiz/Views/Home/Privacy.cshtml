@@ -1,4 +1,4 @@
-﻿@model Urun
+﻿@model List<Urun>
 @{
     ViewData["Title"] = "Privacy Policy";
 }
@@ -12,11 +12,18 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>@Model.UrunId.ToString()</td>
-            <td>@Model.UrunAdi.ToString()</td>
-            <td>@Model.UrunFiyat.ToString()</td>
-            <td>@Model.UrunStokAdet.ToString()</td>
-        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.UrunId.ToString()</td>
+                <td>@item.UrunAdi.ToString()</td>
+                <td>@item.UrunFiyat.ToString()</td>
+                <td>@item.UrunStokAdet.ToString()</td>
+            </tr>
+            <tr>
+                
+            </tr>
+        }
     </tbody>
 </table>
+<a asp-action="Create" class="btn btn-outline-primary"> <b>+</b> Yeni Ürün Oluştur </a>

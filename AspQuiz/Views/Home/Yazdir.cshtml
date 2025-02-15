@@ -1,0 +1,62 @@
+﻿@model IEnumerable<AspQuiz.Models.Urun>
+
+@{
+    ViewData["Title"] = "Yazdir";
+}
+
+<div>
+    <a asp-action="Create" class="btn btn-info">Create New</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UrunId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UrunAdi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UrunFiyat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UrunStokAdet)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UrunId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UrunAdi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UrunFiyat)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UrunStokAdet)
+                </td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.UrunId" class="btn btn-primary">Güncelle</a>
+                    <a asp-action="Delete" asp-route-id="@item.UrunId" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="2">Toplam</td>
+            <td>@ViewData["ToplamUrunFiyati"] TL</td>
+            <td>@ViewData["ToplamStokAdedi"] Adet</td>
+            <td></td>
+        </tr>
+    </tfoot>
+</table>
+<div>
+    <a asp-action="Listele" class="btn btn-outline-secondary">Listele</a>
+</div>
