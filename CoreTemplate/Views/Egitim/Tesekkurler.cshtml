@@ -1,0 +1,18 @@
+﻿@model Ogrenci
+@{
+    ViewData["Title"] = "Tesekkurler";
+}
+
+<h1>Merhaba</h1>
+<h2>@Model.Ad , @Model.Soyad</h2>
+<hr />
+@if (Model.Katilim == true)
+{
+    @:Eğitime Katılımız için teşekkürler
+}
+else{
+    @:Eğitime Katılamadığınız için üzgünüz...
+}
+<br />
+
+Eğitime Katılanları Görmek için <a asp-action="ListeKatilanlar">Buraya</a> Tıklayınız 

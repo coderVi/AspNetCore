@@ -1,0 +1,22 @@
+﻿@model Urun
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<table class="table table-hover border-1">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Ürün Adı</th>
+            <th scope="col">Ürün Fiyatı</th>
+            <th scope="col">Ürün Stok Adet</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.UrunId.ToString()</td>
+            <td>@Model.UrunAdi.ToString()</td>
+            <td>@Model.UrunFiyat.ToString()</td>
+            <td>@Model.UrunStokAdet.ToString()</td>
+        </tr>
+    </tbody>
+</table>
