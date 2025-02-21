@@ -1,0 +1,47 @@
+﻿@model Candidate
+
+<form class="form-group">
+    <div class="form-group my-2">
+        <label>Email</label>
+        <input name="Email" class="form-control" />
+    </div>
+    <div class="form-group my-2">
+        <label>First Name : </label>
+        <input name="FirstName" class="form-control" />
+    </div>
+    <div class="form-group my-2">
+        <label>Last Name</label>
+        <input name="LastName" class="form-control" />
+    </div>
+
+    <div class=" form-group my-2">
+        <label>Age</label>
+        <select name="Age" class="form-control">
+            @for (int i = 18; i < 24; i++)
+            {
+                <option value="@i">@i.ToString()</option>
+            }
+        </select>
+    </div>
+
+    <fieldset>
+        <legend>Select one course</legend>
+        <p>
+            <input type="radio" id="mvc" name="SelectedCourse" value="ASP.NET CORE MVC"/>
+            <label>ASP.NET CORE MVC</label>
+        </p>
+        <p>
+            <input type="radio" id="api" name="SelectedCourse" value="ASP.NET CORE API" />
+            <label>ASP.NET CORE API</label>
+        </p>
+        <p>
+            <input type="radio" id="blazor" name="SelectedCourse" value="Blazor" />
+            <label>ASP.NET CORE Blazor</label>
+        </p>
+    </fieldset>
+
+    <div>
+        <button class="btn btn-outline-info" type="submit">Apply</button>
+        <a class="btn btn-warning" href="/Home">Home</a>
+    </div>
+</form>
