@@ -1,7 +1,32 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
+﻿@model IEnumerable<Candidate>
+
+@if(Model.Count()>0)
+{
+    <h4 class="h6">Applications (@Model.Count())</h4>
+    
+    <table class="table table-hover table-striped border-1">
+        <thead>
+            <th>Email</th>
+            <th>Full Name</th>
+            <th>Apply At</th>
+            <th>Course</th>
+        </thead>
+        <tbody>
+            @foreach (Candidate item in Model)
+            {
+                <tr>
+                    <td>@item.Email</td>
+                    <td>@item.FullName</td>
+                    <td>@item.ApplyAt</td>
+                    <td>@item.SelectedCourse</td>
+                </tr>
+            }
+        </tbody>
+    </table>
 }
-
-<h1>Course</h1>
-
+else
+{
+    <div class="alert-info">
+        There is no application. Please click to <a class="alert-link" asp-action="Apply">apply</a>
+    </div>
+}
